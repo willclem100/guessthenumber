@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "rewrites": [
-    { "source": "/(styles.css|app.js)", "destination": "/$1" },
-    { "source": "/.*", "destination": "/index.html" }
-  ]
-}
